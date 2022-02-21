@@ -1,3 +1,3 @@
 # test_md
 
-\rho
+\sum_{\forall i}{x_i^{2}}
