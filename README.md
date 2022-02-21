@@ -1,3 +1,3 @@
 # test_md
 
-![\sum_{\forall i}{x_i^{2}}](https://latex.codecogs.com/svg.image?\sum_{\forall&space;i}{x_i^{2}})
+![something](<img src="https://latex.codecogs.com/svg.image?-d&space;\le&space;\rho&space;\le&space;d$,&space;$d&space;=&space;\sqrt{w^2&space;&plus;&space;h^2}" title="-d \le \rho \le d$, $d = \sqrt{w^2 + h^2}" />)
